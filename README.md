@@ -10,7 +10,7 @@
 - 📫 How to reach me **wasiqzahoor1234@gmail.com**
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Chaudhary Wasiq Zahoor) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ch_Wiqi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Wasiq Zahoor) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Wasiq Zahoor) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@World Top Secrets) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wasiqzahoor1234@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ChaudharyWasiqZahoor) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ch_Wiqi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/WasiqZahoor) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/WasiqZahoor) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@WorldTopSecretsByWZ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wasiqzahoor1234@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
