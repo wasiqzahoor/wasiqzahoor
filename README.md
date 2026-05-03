@@ -22,20 +22,17 @@
 
 ## 🙋‍♂️ About Me
 
-```javascript
-const wasiq = {
-  name:        "Chaudhary Wasiq Zahoor",
-  location:    "Pakistan 🇵🇰",
-  role:        "Full Stack Developer + AI Engineer + Startup Founder",
-  company:     "NewTechSofts 🚀",
-  education:   "CS Student 📚",
-  experience:  "3-5 Years of Real-World Development",
-  currentWork: "Building AI-Powered Solutions @ NewTechSofts",
-  learning:    ["Advanced AI/ML", "Cloud Architecture", "Scalable Systems"],
-  askMeAbout:  ["Web Apps", "Mobile Apps", "Desktop Apps", "AI/ML", "Startups"],
-  funFact:     "I debug code faster than I debug my life choices 😂"
-};
-```
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+Hey! I'm **Chaudhary Wasiq Zahoor** 👋 — a passionate **Full Stack Developer**, **AI Engineer**, and proud **Founder of NewTechSofts** 🚀, based in **Pakistan 🇵🇰**.
+
+Over the past **3-5 years**, I've been crafting digital experiences across every layer of the stack — from beautiful **React & Flutter frontends** to powerful **Node.js & Python backends**, and even intelligent **AI/ML systems** that think for themselves 🤖.
+
+By day I'm a **CS Student** 📚, by night I'm shipping real products, taking on **freelance projects**, and growing **NewTechSofts** into something the world will notice 🌍.
+
+What drives me? The thrill of turning a blank screen into something that **solves real problems** and makes people's lives easier. Whether it's a sleek web app, a smooth mobile experience, or a powerful desktop tool — I build it with care, precision, and a whole lot of ☕ coffee.
+
+> *"Code is not just my skill — it's my superpower."* ⚡
 
 ---
 
