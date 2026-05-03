@@ -111,12 +111,12 @@ What drives me? The thrill of turning a blank screen into something that **solve
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wasiqzahoor&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="49%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=wasiqzahoor&theme=radical&hide_border=false" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=wasiqzahoor&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wasiqzahoor&theme=tokyonight&hide_border=false" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasiqzahoor&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasiqzahoor&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" width="42%" />
 
 </div>
 
@@ -126,7 +126,7 @@ What drives me? The thrill of turning a blank screen into something that **solve
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=wasiqzahoor&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7)
+![](https://github-profile-trophy.vercel.app/?username=wasiqzahoor&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=7)
 
 </div>
 
