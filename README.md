@@ -111,12 +111,7 @@ What drives me? The thrill of turning a blank screen into something that **solve
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wasiqzahoor&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wasiqzahoor&theme=tokyonight&hide_border=false" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasiqzahoor&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" width="42%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wasiqzahoor&theme=tokyonight&hide_border=false" width="60%" />
 
 </div>
 
