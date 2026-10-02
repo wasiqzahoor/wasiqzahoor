@@ -24,11 +24,11 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-Hey! I'm **Chaudhary Wasiq Zahoor** 👋 — a passionate **Full Stack Developer**, **AI Engineer**, and proud **Founder of NewTechSofts** 🚀, based in **Pakistan 🇵🇰**.
+Hey! I'm **Chaudhary Wasiq Zahoor** 👋 — a passionate **Full Stack Developer**, **AI Engineer**, and proud **Founder of NewAiTechSofts** 🚀, based in **Pakistan 🇵🇰**.
 
 Over the past **3-5 years**, I've been crafting digital experiences across every layer of the stack — from beautiful **React & Flutter frontends** to powerful **Node.js & Python backends**, and even intelligent **AI/ML systems** that think for themselves 🤖.
 
-By day I'm a **CS Student** 📚, by night I'm shipping real products, taking on **freelance projects**, and growing **NewTechSofts** into something the world will notice 🌍.
+By day I'm a **CS Student** 📚, by night I'm shipping real products, taking on **freelance projects**, and growing **NewAiTechSofts** into something the world will notice 🌍.
 
 What drives me? The thrill of turning a blank screen into something that **solves real problems** and makes people's lives easier. Whether it's a sleek web app, a smooth mobile experience, or a powerful desktop tool — I build it with care, precision, and a whole lot of ☕ coffee.
 
