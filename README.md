@@ -38,7 +38,7 @@ What drives me? The thrill of turning a blank screen into something that **solve
 
 ## 🚀 What I'm Up To
 
-- 🔭 **Currently Building:** AI Personal Assistant & innovative SaaS products at **NewTechSofts**
+- 🔭 **Currently Building:** AI Personal Assistant & innovative SaaS products at **NewAiTechSofts**
 - 🌱 **Currently Learning:** Advanced AI/ML, Cloud Infrastructure & Scalable Architecture
 - 💼 **Open For:** Freelance projects — Web, Mobile, Desktop & AI Solutions
 - 🤝 **Let's Collaborate:** On exciting open source & startup ideas
